@@ -2,35 +2,31 @@
 
 <h1> Overview </h1>
 <p>
-This document should help to support the on-boarding process for a new joiner to the Network Rail Dedicated team based at the App Dev Centre of Excellence in Waterford.
+This document should help to Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et efficitur sapien. Curabitur consectetur viverra lorem nec pulvinar. Mauris ac sagittis diam, eget vestibulum sapien. 
  
-The first part gives a background of the project and introduces the current team.
- 
-The second part is a list to collate useful documentation and other information. Please help maintain this list by letting us know if there are any problems or outdated information. Ideally you can directly correct it, or just add a comment and we can take care of it. Thanks!
+ Pellentesque lorem massa, congue vel elementum at, pulvinar sit amet magna. Nulla facilisi. Ut pellentesque, eros sit amet blandit consequat, enim velit malesuada enim, a molestie nulla enim vel nulla. Suspendisse cursus, turpis ac venenatis accumsan, est lacus condimentum mauris, id ultrices lacus ligula in erat. Curabitur eleifend nunc id urna molestie scelerisque. Ut faucibus nisi iaculis, fermentum felis ut, fermentum massa. Fusce augue dui, efficitur sit amet finibus et, luctus ac tortor. Phasellus egestas diam ut neque sollicitudin blandit. Nunc dapibus fringilla justo, non dapibus odio ullamcorper et. In ut tincidunt tortor.
+
 </p>
 
 <h1> Project Background </h1>
 <p>
-Network Rail is the owner and infrastructure manager of most of the rail network in England, Scotland and Wales.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et efficitur sapien. Curabitur consectetur viverra lorem nec pulvinar. Mauris ac sagittis diam, eget vestibulum sapien. Pellentesque lorem massa, congue vel elementum at, pulvinar sit amet magna. Nulla facilisi. Ut pellentesque, eros sit amet blandit consequat, enim velit malesuada enim, a molestie nulla enim vel nulla. Suspendisse cursus, turpis ac venenatis accumsan, est lacus condimentum mauris, id ultrices lacus ligula in erat. 
  
-Our engagement with Network Rail began in 2014 when we were still Feedhenry and yet to be acquired by Redhat. Over time we have developed around 20 apps for use by their engineers, customers and business. We have also been involved in migration and conversion projects.
- 
-We deal with their MBS (Mobile Business Services) team *Rebranded as Digital Factory Oct 2019*. They engage with different “business” departments within Network Rail that require an app to be developed.
- 
-Initially projects were developed following waterfall methods but we have transitioned to an Agile approach.
+Curabitur eleifend nunc id urna molestie scelerisque. Ut faucibus nisi iaculis, fermentum felis ut, fermentum massa. Fusce augue dui, efficitur sit amet finibus et, luctus ac tortor. Phasellus egestas diam ut neque sollicitudin blandit. Nunc dapibus fringilla justo, non dapibus odio ullamcorper et. In ut tincidunt tortor.
+
  
 </p>
 
 <h1> Teams </h1>
 
-<h2> Red Hat Dedicated Team </h2>
+<h2> Top Team </h2>
 
 |*Name*|*Role*|*Email*|
-|Lisa Casey|Senior Consultant (QE)|lcasey@redhat.com|
-|Darach Cawley|Project Manager|dcawley@redhat.com|
+|Liz Lizzy|Senior Consultant|liz@madeup.com|
+|Dan Daniels|Project Manager|dan@madeup.com|
 
-<h2> Network Rail Digital Factory Team </h2>
+<h2> Next Team </h2>
 
 |*Name*|*Role*|*Email*|
-|Michael Owen|Project Manager|owen.michael@networkrail.co.uk|
-|Carly Bettis|Product Owner|bettis.carly@networkrail.co.uk|
+|Mike Michaels|Project Manager|mike@theothers.com|
+|George Smith|Product Owner|george@theothers.com|
