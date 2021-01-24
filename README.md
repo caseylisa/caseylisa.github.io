@@ -2,4 +2,4 @@
 For docs
 Trying out a bit of html. Might use for our onboardings docs
 
-Website cna be found at https://caseylisa.github.io
+Website can be found at https://caseylisa.github.io
