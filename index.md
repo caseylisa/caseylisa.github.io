@@ -25,12 +25,12 @@ Initially projects were developed following waterfall methods but we have transi
 
 <h2> Red Hat Dedicated Team </h2>
 
-||Name||Role||Email||
+|*Name*|*Role*|*Email*|
 |Lisa Casey|Senior Consultant (QE)|lcasey@redhat.com|
 |Darach Cawley|Project Manager|dcawley@redhat.com|
 
 <h2> Network Rail Digital Factory Team </h2>
 
-||Name||Role||Email||
+|*Name*|*Role*|*Email*|
 |Michael Owen|Project Manager|owen.michael@networkrail.co.uk|
 |Carly Bettis|Product Owner|bettis.carly@networkrail.co.uk|
